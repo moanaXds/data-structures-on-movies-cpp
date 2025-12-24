@@ -1,6 +1,6 @@
-**C++ implementation of core data structures for managing a movies dataset.**
+## C++ implementation of core data structures for managing a movies dataset.
+---------------------------------------------------------------------------
 
----
 
 ## Overview
 
